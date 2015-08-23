@@ -3,7 +3,9 @@
 This is a course project submitted as a part of Coursera class on Getting and Cleaning Data. Here are the project files:
 
 [analysis.R](https://github.com/srinivasans/cleaning_data_project/raw/master/analysis.R)
+
 [CodeBook.md](https://github.com/srinivasans/cleaning_data_project/raw/master/CodeBook.md)
+
 [README](https://github.com/srinivasans/cleaning_data_project/raw/master/README.md)
 
 ## Instructions :
