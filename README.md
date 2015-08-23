@@ -2,16 +2,16 @@
 
 This is a course project submitted as a part of Coursera class on Getting and Cleaning Data. Here are the project files:
 
-analysis.R (https://github.com/srinivasans/cleaning_data_project/raw/master/analysis.R)
-CodeBook.md (https://github.com/srinivasans/cleaning_data_project/raw/master/CodeBook.md)
-README (https://github.com/srinivasans/cleaning_data_project/raw/master/README)
+[analysis.R](https://github.com/srinivasans/cleaning_data_project/raw/master/analysis.R)
+[CodeBook.md](https://github.com/srinivasans/cleaning_data_project/raw/master/CodeBook.md)
+[README](https://github.com/srinivasans/cleaning_data_project/raw/master/README.md)
 
 ## Instructions :
 
 To run the code,
 
 * Checkout the repository to your local system
-* Download and Extract the dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Download and Extract the dataset [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 * Open R and move to the data directory
 * Run analysis.R
 * The files filtered_data_merged.csv and average_data.txt will be generated
